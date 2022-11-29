@@ -1,7 +1,7 @@
 #import libraries
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 from sklearn import datasets
 from sklearn.neighbors import KNeighborsClassifier
